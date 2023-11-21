@@ -1,5 +1,5 @@
  
-# 02- Conmutador de entradas de sonido IoT
+# Conmutador de entradas de sonido con ESP32
 
 ## Descripción
 
